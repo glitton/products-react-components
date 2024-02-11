@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import React from "react";
+
 import PhotoIndex from "./PhotoIndex";
 import StarRating from "./StarRating";
 
